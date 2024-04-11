@@ -1,3 +1,4 @@
 [submodule "southwark-submodule"]
 	path = southwark-submodule
 	url = git@github.com:Paragon1970/southwark-submodule.git
+	branch = branch2-submodule
